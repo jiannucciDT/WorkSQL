@@ -1,2 +1,2 @@
 # WorkSQL
-SQL scripts for work
+Jeff Iannucci's SQL scripts for work at DriveTime
